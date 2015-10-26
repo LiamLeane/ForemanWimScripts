@@ -1,1 +1,0 @@
-powershell -ExecutionPolicy Unrestricted x:\Foreman\StartInstall.ps1
