@@ -1,0 +1,1 @@
+c:\WIM\Scripts\Wim.ps1 -wimFile "C:\WIM\SourceWims\2008R2\install.wim" -destination "Z:\6.1\" -updatesPath "C:\WSUS\client\w61-x64\glb\" -driversPath "C:\Test\"

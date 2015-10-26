@@ -1,0 +1,1 @@
+c:\WIM\Scripts\Wim.ps1 -wimFile C:\WIM\SourceWims\boot\boot.wim -destination "Z:\boot\sources\" -isBoot $true -driversPath "Y:\PEDrivers\"
